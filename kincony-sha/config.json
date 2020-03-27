@@ -1,0 +1,26 @@
+{
+  "name": "kincony-sha",
+  "version": "0.1",
+  "slug": "kincony-sha",
+  "description": "kincony-sha",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "startup": "before",
+  "boot": "auto",
+  "options": {
+    "beer": true,
+    "wine": true,
+    "liquor": false,
+    "name": "world",
+    "year": 2017
+  },
+  "schema": {
+    "beer": "bool",
+    "wine": "bool",
+    "liquor": "bool",
+    "name": "str",
+    "year": "int"
+  },
+  "ports": {
+    "8000/tcp": 8123
+  }
+}
