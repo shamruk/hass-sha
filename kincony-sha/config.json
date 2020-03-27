@@ -1,6 +1,6 @@
 {
   "name": "kincony-sha",
-  "version": "0.2",
+  "version": "0.3",
   "slug": "kincony-sha",
   "description": "kincony-sha",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
