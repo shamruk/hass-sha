@@ -1,6 +1,6 @@
 {
   "name": "kincony-sha",
-  "version": "0.1",
+  "version": "0.2",
   "slug": "kincony-sha",
   "description": "kincony-sha",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
@@ -21,6 +21,6 @@
     "year": "int"
   },
   "ports": {
-    "8000/tcp": 8123
+    "8000/tcp": 8129
   }
 }
